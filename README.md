@@ -2,9 +2,9 @@
 
 ## First steps
 
-Run devcontainers.
+Start project in devcontainers with VSC.
 
-### Install tailwind CSS
+### Install Tailwind CSS
 
 ```bash
 npm install -D tailwindcss

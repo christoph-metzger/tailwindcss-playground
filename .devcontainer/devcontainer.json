@@ -6,7 +6,8 @@
       "settings": {
         "files.autoSave": "onFocusChange",
         "editor.formatOnSave": true,
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "liveServer.settings.root": "/src"
       },
       "extensions": [
         "bradlc.vscode-tailwindcss",
