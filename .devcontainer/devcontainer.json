@@ -1,0 +1,19 @@
+{
+  "name": "Tailwind Hello workspaceFolderBasename",
+  "image": "node:20.11.1",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.autoSave": "onFocusChange",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "extensions": [
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "ritwickdey.liveserver"
+      ],
+      "features": ["ghcr.io/devcontainers-contrib/features/live-server:1"]
+    }
+  }
+}
